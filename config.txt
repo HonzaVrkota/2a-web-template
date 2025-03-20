@@ -1,0 +1,5 @@
+DNS Record
+
+A / AAAA
+*.netlify.app
+1.1.1.1
